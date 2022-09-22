@@ -1,0 +1,14 @@
+{
+  "name": "insert-file-cmd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "add": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^9.4.0",
+    "minimist": "^1.2.6"
+  }
+}
